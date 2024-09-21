@@ -1,0 +1,7 @@
+scoreboard objectives remove falling_blocks_drop.gravel_broken
+scoreboard objectives remove falling_blocks_drop.red_sand_broken
+scoreboard objectives remove falling_blocks_drop.sand_broken
+scoreboard objectives remove falling_blocks_drop.gravel_placed
+scoreboard objectives remove falling_blocks_drop.red_sand_placed
+scoreboard objectives remove falling_blocks_drop.sand_placed
+scoreboard objectives remove falling_blocks_drop.idle_ticks

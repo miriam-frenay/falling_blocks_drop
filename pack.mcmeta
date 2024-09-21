@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 26,
+    "description": "Breaks all falling gravel and sand above a block broken by a player"
+  }
+}

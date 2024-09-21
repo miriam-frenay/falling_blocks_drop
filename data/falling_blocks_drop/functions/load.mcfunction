@@ -1,0 +1,7 @@
+scoreboard objectives add falling_blocks_drop.gravel_broken mined:gravel
+scoreboard objectives add falling_blocks_drop.red_sand_broken mined:red_sand
+scoreboard objectives add falling_blocks_drop.sand_broken mined:sand
+scoreboard objectives add falling_blocks_drop.gravel_placed used:gravel
+scoreboard objectives add falling_blocks_drop.red_sand_placed used:red_sand
+scoreboard objectives add falling_blocks_drop.sand_placed used:sand
+scoreboard objectives add falling_blocks_drop.idle_ticks dummy
