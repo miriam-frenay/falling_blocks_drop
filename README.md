@@ -4,4 +4,4 @@ Makes falling gravel and sand break automatically if the lowest block was broken
 
 ## License
 
-This data pack is released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+This data pack is released under the [CC0 1.0 Universal](./LICENSE.txt) license.
